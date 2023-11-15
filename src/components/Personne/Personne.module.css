@@ -1,0 +1,8 @@
+/*utiliser des classes css pour le style*/
+/*Nommer le fichier au nom du repertoire et ecrire module a la fin EX: Personne.module  */
+.monTitre{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+}

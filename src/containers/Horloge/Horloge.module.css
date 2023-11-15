@@ -1,0 +1,7 @@
+/*utiliser des classes css pour le style*/
+/*Nommer le fichier au nom du repertoire et ecrire module a la fin EX: Horloge.module  */
+.monTitre{
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
